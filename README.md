@@ -1,4 +1,4 @@
-<a target="_blank" href="https://tongjiyiming.github.io/"><img width="450" height="300" align="right" src="https://www.armytimes.com/resizer/tidaGMn64yDXlKuf7IJPGcsvDfA=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/TIQ4YOM3BJHL3KLKJ42TYPUJVI.jpg"></a>
+<a target="_blank" href="https://tongjiyiming.github.io/"><img width="50%" height="50%" align="right" src="https://www.armytimes.com/resizer/tidaGMn64yDXlKuf7IJPGcsvDfA=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/TIQ4YOM3BJHL3KLKJ42TYPUJVI.jpg"></a>
 ## Liming Zhang: AI + Big Data
 - 🔭 I’m currently Ph.D. Candidate working on **Bayesian Deep Learning** and **AI for human behavior prediction**.
 - 🌱 I’m widely interested in bridging the gap between ML and software engineer, so it is easier to implement an AI-enabled system.
