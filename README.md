@@ -19,7 +19,7 @@
 [Google scholar link](https://scholar.google.com/citations?user=o67cJNMAAAAJ&hl=en)
 - 2020-2020, Spatially-valid trajectory generation: [paper](https://?/), repo
 - 2019-2020, Spaital-temporal graph generation (lead): [paper](https://dl.acm.org/doi/abs/10.1145/3347146.3363462), repo
-- 2019-2020, Temporal graph generation (lead): [paper](https://arxiv.org/abs/2005.08323), repo
+- 2019-2020, Temporal graph generation (lead): [paper](https://arxiv.org/abs/2005.08323), [repo](https://github.com/tongjiyiming/TGGAN)
 - 2019-2019, Conditional-UNet for wearable AI (lead): [paper](https://arxiv.org/abs/2004.09376), repo
 - 2017-2018, Station-to-User Transfer Learning (lead): [paper](https://arxiv.org/abs/2004.12828), repo
 - 2016-2017, Crowdsourcing urban change (lead): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212606)
