@@ -17,7 +17,7 @@
 <br>
 ## AI Papers and Codes:
 [Google scholar link](https://scholar.google.com/citations?user=o67cJNMAAAAJ&hl=en)
-- 2020-2020, Spatially-valid trajectory generation: [paper](https://?/), repo
+- 2020-2020, Spatially-valid deep trajectory generation: [paper](https://https://arxiv.org/abs/2009.09333), [repo](https://github.com/tongjiyiming/TrajGen)
 - 2019-2020, Spaital-temporal graph generation (lead): [paper](https://dl.acm.org/doi/abs/10.1145/3347146.3363462), repo
 - 2019-2020, Temporal graph generation (lead): [paper](https://arxiv.org/abs/2005.08323), [repo](https://github.com/tongjiyiming/TGGAN)
 - 2019-2019, Conditional-UNet for wearable AI (lead): [paper](https://arxiv.org/abs/2004.09376), repo
