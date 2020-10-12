@@ -20,7 +20,7 @@
 - 2020-2020, Spatially-valid deep trajectory generation: [paper](https://https://arxiv.org/abs/2009.09333), [repo](https://github.com/tongjiyiming/TrajGen)
 - 2019-2020, Spaital-temporal graph generation (lead): [paper](https://dl.acm.org/doi/abs/10.1145/3347146.3363462), repo
 - 2019-2020, Temporal graph generation (lead): [paper](https://arxiv.org/abs/2005.08323), [repo](https://github.com/tongjiyiming/TGGAN)
-- 2019-2019, Conditional-UNet for wearable AI (lead): [paper](https://arxiv.org/abs/2004.09376), repo
+- 2019-2019, Conditional-UNet for wearable AI and multi-label image segmentation (lead): [paper](https://arxiv.org/abs/2004.09376), [repo](https://github.com/tongjiyiming/Conditional-UNet)
 - 2017-2018, Station-to-User Transfer Learning (lead): [paper](https://arxiv.org/abs/2004.12828), repo
 - 2016-2017, Crowdsourcing urban change (lead): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212606)
 - 2015-2015, HPC distributed spatial indexing (assistant): [paper](http://www.sis.pitt.edu/bpalan/papers/Spatialqueries-STCC-2016.pdf)
