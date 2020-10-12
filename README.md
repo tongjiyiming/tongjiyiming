@@ -23,7 +23,7 @@
 - 2019-2019, Conditional-UNet for wearable AI and multi-label image segmentation (lead): [paper](https://arxiv.org/abs/2004.09376), [repo](https://github.com/tongjiyiming/Conditional-UNet)
 - 2017-2018, Station-to-User Transfer Learning (lead): [paper](https://arxiv.org/abs/2004.12828), repo
 - 2016-2017, Crowdsourcing urban change (lead): [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212606)
-- 2015-2015, HPC distributed spatial indexing (assistant): [paper](http://www.sis.pitt.edu/bpalan/papers/Spatialqueries-STCC-2016.pdf)
+- 2015-2015, Distributed spatial indexing for high-performace computing (assistant): [paper](http://www.sis.pitt.edu/bpalan/papers/Spatialqueries-STCC-2016.pdf)
 ## Demos
 - 2018: SolarMart (entrepreneurship team), find solar benefit of your hourse with real products. [Link](http://18.191.179.149:8080) / [Youtube](https://www.youtube.com/watch?v=J4mL1OrmBT0)
 - 2017: Coffee Gravity (solo work), an interactive data viz app. [Link](https://tongjiyiming.github.io/cafeManhattan/)
